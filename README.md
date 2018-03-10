@@ -1,0 +1,2 @@
+# Manifests
+Some Devices Manifests
